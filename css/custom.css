@@ -231,3 +231,8 @@ div#archive {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+/* 翻页按钮居中 */
+#pagination {
+    width: 100%;
+    margin: auto;
+}
